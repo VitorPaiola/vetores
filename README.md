@@ -228,7 +228,7 @@ correspondentes dos dois vetores. Usando `Map` e `EntrySet`.
 **Objetivo:** Crie um programa que leia um vetor de números inteiros e 
 encontre o segundo maior elemento presente no vetor. Usando `array`.
 
-### 🥈 **Identificação do Segundo Maior Elemento no Vetor**
+### 🥈 **Identificação do Segundo Maior Elemento no Vetor Versão 2**
 **Objetivo:** Crie um programa que leia um vetor de números inteiros e 
 encontre o segundo maior elemento presente no vetor. Usando `List<Integer>`.
 
