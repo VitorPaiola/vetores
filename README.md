@@ -59,7 +59,7 @@ As estruturas de dados utilizadas incluem:
 ## 📌 Confira meu artigo no DEV.to
 
 Para explorar mais sobre manipulação de vetores, listas e estruturas de dados em Java, confira meu artigo no
-[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-7-cdm) 🚀
+[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-8-35bm) 🚀
 
 Neste artigo, compartilho exemplos práticos e soluções eficientes para manipulação de **arrays**, 
 **listas** (`List`), **sets** (`Set`, `HashSet`) e **mapas** (`Map`), além do uso de **estruturas de repetição** 
